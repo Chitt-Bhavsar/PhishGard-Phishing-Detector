@@ -79,7 +79,3 @@ The dashboard provides visualizations and statistics about the URLs that have be
 - Number of safe URLs
 - Charts showing the distribution of safe vs. phishing URLs
 - Recent scan history
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
